@@ -1,0 +1,57 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Ghost and the Darkness",
+      "read": false
+    },
+    {
+      "read": true,
+      "name": "A Christmas Carol",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Star Wars",
+      "read": true
+    },
+    {
+      "id": 4,
+      "name": "Back to the Future",
+      "read": false
+    },
+    {
+      "id": 5,
+      "name": "The Matrix",
+      "read": false
+    },
+    {
+      "id": 6,
+      "name": "Inception",
+      "read": true
+    },
+    {
+      "id": 7,
+      "name": "Freedom Writers",
+      "read": true
+    },
+    {
+      "name": "tom and jery",
+      "read": true,
+      "id": 8
+    },
+    {
+      "name": "thien long bat bo",
+      "read": true,
+      "id": 9
+    },
+    {
+      "name": "anh hung xa dieu",
+      "read": false,
+      "id": 10
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
